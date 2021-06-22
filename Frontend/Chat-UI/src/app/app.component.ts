@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Chat-UI';
+  time = '11:30 AM';
+  read = "N";
 }
